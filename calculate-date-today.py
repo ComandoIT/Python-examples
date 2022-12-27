@@ -1,4 +1,4 @@
-#How to calculate what day today in format day with library datatime
+#How to calculate what day today in format day with library datetime
 from datetime import datetime, timedelta
 
 #Obtain date today
